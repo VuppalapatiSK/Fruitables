@@ -110,7 +110,7 @@ export const socialIcon = [
     },
     {
       category: "Vegetables",
-      slideImg: "./assets/img/hero-img-2.JPG",
+      slideImg: "./assets/img/hero-img-2.jpg",
     }
   ];
   export const features = [
