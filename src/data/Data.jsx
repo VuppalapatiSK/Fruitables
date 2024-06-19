@@ -106,7 +106,7 @@ export const socialIcon = [
   export const slids = [
     {
       category: "Fruits",
-      slideImg: "../assets/img/hero-img-1.png",
+      slideImg: "./assets/img/hero-img-1.png",
     },
     {
       category: "Vegetables",
