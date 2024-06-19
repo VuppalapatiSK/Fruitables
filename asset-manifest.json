@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fruitables/static/css/main.a9f7f2e2.css",
-    "main.js": "/Fruitables/static/js/main.dc2d7edd.js",
+    "main.js": "/Fruitables/static/js/main.ccc197da.js",
     "static/media/cart-page-header-img.jpg": "/Fruitables/static/media/cart-page-header-img.144b125fef5e5f43a332.jpg",
     "static/media/hero-img.jpg": "/Fruitables/static/media/hero-img.358b54f6112aa26ec54f.jpg",
     "static/media/slick.svg": "/Fruitables/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,10 +10,10 @@
     "static/media/slick.woff": "/Fruitables/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fruitables/index.html",
     "main.a9f7f2e2.css.map": "/Fruitables/static/css/main.a9f7f2e2.css.map",
-    "main.dc2d7edd.js.map": "/Fruitables/static/js/main.dc2d7edd.js.map"
+    "main.ccc197da.js.map": "/Fruitables/static/js/main.ccc197da.js.map"
   },
   "entrypoints": [
     "static/css/main.a9f7f2e2.css",
-    "static/js/main.dc2d7edd.js"
+    "static/js/main.ccc197da.js"
   ]
 }
