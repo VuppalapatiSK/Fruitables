@@ -64,7 +64,7 @@ const HomeSlider = ()=> {
                     {slids.map((val, index) => (
                       <div className="carousel-item rounded" key={index}>
                         <img
-                          src={val.slide_img}
+                          src={val.slideImg}
                           className="img-fluid w-100 h-100 bg-secondary rounded"
                           alt="First slide"
                         />

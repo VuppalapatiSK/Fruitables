@@ -106,11 +106,11 @@ export const socialIcon = [
   export const slids = [
     {
       category: "Fruits",
-      slide_img: "../assets/img/hero-img-1.png",
+      slideImg: "../assets/img/hero-img-1.png",
     },
     {
       category: "Vegetables",
-      slide_img: "../assets/img/hero-img-2.jpg",
+      slideImg: "../assets/img/hero-img-2.jpg",
     }
   ];
   export const features = [
